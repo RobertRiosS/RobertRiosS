@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I A'M  ROBERT RIOS
 
+I'M A STUDENT IN COMPUTER SCIENCE, PASSIONATE ABOUT PYTHON AND DATA 
 <!--
 **RobertRiosS/RobertRiosS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
