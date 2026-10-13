@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Robert Rios and I'a m a computer science student. </h2>
+<h2 align="left">Hi 👋! My name is Robert Rios and I'm a Develop 😁 </h2>
 
 ###
 
